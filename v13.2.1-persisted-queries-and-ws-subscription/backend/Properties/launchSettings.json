@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "WebSocketAndPersistedQueriesBug": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/graphql/",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:7001"
+    }
+  }
+}

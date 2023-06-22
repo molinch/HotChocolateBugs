@@ -1,0 +1,5 @@
+subscription PersonsSubscriptions {
+  onNewPerson {
+    name
+  }
+}

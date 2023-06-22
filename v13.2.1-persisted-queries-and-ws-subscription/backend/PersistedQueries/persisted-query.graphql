@@ -1,0 +1,5 @@
+query GetPersonsQuery {
+  person {
+    name
+  }
+}
